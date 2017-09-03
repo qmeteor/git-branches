@@ -6,7 +6,7 @@
 
 ### Creating branches
 
-```git checkout -b <name of branch>
+```git checkout -b nameofbranch
 
 ### Switch between branches 
 
@@ -14,19 +14,19 @@
 
 or
 
-```git checkout <name of branch>```
+```git checkout nameofbranch```
 
 ### Track new file & commit and view branches
 
-```git add <name of file>```
+```git add name of file```
 
-```git commit -m 'message' <name of file>```
+```git commit -m 'message' nameoffile```
 
 ```git branch```
 
 ### Merge to master -remember- to switch into master branch
 
-```git merge <name of branch> --no-ff
+```git merge nameofbranch --no-ff
 
 ```git push```
 
