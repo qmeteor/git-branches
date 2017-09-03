@@ -6,7 +6,7 @@
 
 ### Creating branches
 
-```git checkout -b nameofbranch
+```git checkout -b nameofbranch```
 
 ### Switch between branches 
 
@@ -26,7 +26,7 @@ or
 
 ### Merge to master -remember- to switch into master branch
 
-```git merge nameofbranch --no-ff
+```git merge nameofbranch --no-ff```
 
 ```git push```
 
